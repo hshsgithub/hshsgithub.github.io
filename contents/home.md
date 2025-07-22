@@ -1,4 +1,4 @@
-[[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)](https://hshsgithub.github.io/)
+https://hshsgithub.github.io/
 
 I'm currently pursuing a Master's degree in Engineering at the Department of School of Robotics and Advanced Manufacture, HARBIN INSTITUTE OF TECHNOLOGY University, SHENZHEN.
 
